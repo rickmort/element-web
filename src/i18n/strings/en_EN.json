@@ -18,7 +18,6 @@
     "Unknown device": "Unknown device",
     "%(appName)s (%(browserName)s, %(osName)s)": "%(appName)s (%(browserName)s, %(osName)s)",
     "You need to be using HTTPS to place a screen-sharing call.": "You need to be using HTTPS to place a screen-sharing call.",
-    "Powered by Matrix": "Powered by Matrix",
     "Unsupported browser": "Unsupported browser",
     "Your browser can't run %(brand)s": "Your browser can't run %(brand)s",
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s uses advanced browser features which aren't supported by your current browser.",
@@ -27,8 +26,8 @@
     "I understand the risks and wish to continue": "I understand the risks and wish to continue",
     "Go to element.io": "Go to element.io",
     "Failed to start": "Failed to start",
-    "Welcome to Element": "Welcome to Element",
-    "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Decentralised, encrypted chat &amp; collaboration powered by [matrix]",
+    "Welcome to Element": "Welcome to Planet Decred Chat",
+    "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Decentralised, encrypted chat &amp; collaboration powered by Element [matrix]",
     "Sign In": "Sign In",
     "Create Account": "Create Account",
     "Explore rooms": "Explore rooms"
