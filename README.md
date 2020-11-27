@@ -13,7 +13,7 @@ First clone and build `matrix-js-sdk`:
 ``` bash
 git clone https://github.com/matrix-org/matrix-js-sdk.git
 pushd matrix-js-sdk
-git checkout master
+git checkout v9.2.0
 yarn link
 yarn install
 popd
@@ -46,4 +46,4 @@ yarn dist (yarn build on Windows)
 
  This build all the necessary files into the `webapp` directory.
  
-To run on a live server, use `yarn run` command instead of `yarn dist` and open  http://127.0.0.1:8080/. 
+To run on a live server, use `yarn run` command instead of `yarn dist` and open http://127.0.0.1:8080/. 
